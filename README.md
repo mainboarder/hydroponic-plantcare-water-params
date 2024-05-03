@@ -1,3 +1,12 @@
+# What is this?
+
+The table below is an overview of parameters of water for plants growing in hydroponic.
+While researching the internet differend values can be found. Whenever possible the more strict of all params was chosen.
+Therefor and because plants are individual, this is just to be seen as a best practice guide for most plants and there is - of course - no guarantee for award winning growing with this table.
+If you have data for more - please feel free to send a PR or open an issue.
+
+# Water parameters
+
 |Genus|pH-Value|Conductance in µS|
 |--|--|--|
 |Allium|6.0 - 6.5[^2]|1000 - 1400[^2]|
